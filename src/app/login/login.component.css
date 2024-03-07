@@ -1,0 +1,12 @@
+
+.gradient-custom {
+    background-image: url('../img/addNewBack.jpg');
+    background-size: cover; /* Adjusts the background image size to cover the entire section */
+    background-position: center; /* Centers the background image horizontally and vertically */
+    opacity: 0.8; 
+}
+
+.card1{
+    background-color: rgb(224, 77, 51);
+   
+}
